@@ -1,0 +1,19 @@
+{
+  "name": "frogger",
+  "version": "1.0.0",
+  "description": "Frogger Game Classic Udacity Project Unit 5",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "frogger",
+    "Unit",
+    "5"
+  ],
+  "author": "Calvin Bissett",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint-config-google": "^0.9.1"
+  }
+}
